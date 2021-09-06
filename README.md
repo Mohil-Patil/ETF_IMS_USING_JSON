@@ -7,7 +7,7 @@ This is Inventory Management System Using Json (noSQL) Made While Doing ETC ML/A
 3. Displays All The Inventory Which Make it Easy to Purchase Products
 4. Generated Bill
 5. Unique Bill No For Each Purchase
-# (A) Customer Purchasing Product:
+## (A) Customer Purchasing Product:
 ### 1.Customer Has Purchased Product of Id :100
 ![](/Images/IVM_1.png)
 ### 2.Data is stored In sales.json with Unique Customer Id:
@@ -15,13 +15,13 @@ This is Inventory Management System Using Json (noSQL) Made While Doing ETC ML/A
 ![](/Images/IVM_2.png)
 ### 3. Quantity Of Product Get Reduced After Purchase
 ![](/Images/IVM_3.png)
-# (B) Adding DATA(Admin/Owner Adding Data):
+## (B) Adding DATA(Admin/Owner Adding Data):
 ### 1. Admin will Have To Type Password (12345678) to login 
 ### 2. Added New Data With ID: 131
 ![](/Images/IVM_4_A.png)
 ### 3. New Product Added To records.json file:
 ![](/Images/IVM_4_AA.png)
-# (C) Supplier Updating The Data:
+## (C) Supplier Updating The Data:
 ### 1. Supplier Updated The Product With ID: 124:
 ![](/Images/IVM_5b.png)
 ### 2. Before: Quantity Was 20 (Check 'In_Stock' key):
@@ -39,7 +39,7 @@ This is Inventory Management System Using Json (noSQL) Made While Doing ETC ML/A
 3.Linkedin : https://www.linkedin.com/in/mohil-patil-97117821b
 ## Useful Links:
 1.ETC webste: https://www.elitetechnogroups.com
-2.Teacher Who Taught us : github.com/ashishjandra27
+2.Teacher Who Taught us : https://github.com/ashishjandra27
 
      
 
