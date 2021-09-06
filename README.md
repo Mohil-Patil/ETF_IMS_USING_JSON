@@ -39,7 +39,7 @@ This is Inventory Management System Using Json (noSQL) Made While Doing ETC ML/A
 3.Linkedin : https://www.linkedin.com/in/mohil-patil-97117821b
 ## Useful Links:
 1.ETC webste: https://www.elitetechnogroups.com
-2.Teacher Who Taught us : https://github.com/ashishjandra27
+2.Teacher Who Taught us : https://github.com/AshishJangra27
 
      
 
