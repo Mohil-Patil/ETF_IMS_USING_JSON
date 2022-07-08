@@ -33,6 +33,9 @@ This is Inventory Management System Using Json (noSQL) Made While Doing ETC ML/A
 1. Can Purchase Only One Product At A Time :(
    Reason: Code was Able to Purchase N number  Of Products (which were get Stored in List) but, 
      while generating The Bill I was Getting The Error So Dropped That Feature
+     
+##Tutorial Video
+![](/compressed_IMS(1).mp4)
 ## About Me:
 1.I'm Mohil Patil (Bsc CS 2nd Year) umm! Not Much To Tell About Me .
 2.Email : patilmohil2200@gamil.com
